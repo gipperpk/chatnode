@@ -1,0 +1,25 @@
+{
+  "name": "broadcastevents",
+  "version": "2.0.0",
+  "description": "Broadcast events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewjmead/node-course-2-chat-app.git"
+  },
+  "author": "Ronald D Gipp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewjmead/node-course-2-chat-app/issues"
+  },
+  "homepage": "https://github.com/andrewjmead/node-course-2-chat-app#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.3"
+  }
+}
